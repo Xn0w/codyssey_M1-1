@@ -97,7 +97,7 @@ Streamlit으로 대시보드(`dashboard.py`)를 만들어, 종목과 기간을 �
 맞는 종가·20일 이동평균·20일 변동성 그래프와 기간수익률/평균변동성 지표가 즉시 다시 계산되어
 표시된다.
 
-- **배포 URL**: `[배포 후 URL을 여기에 채워넣기]`
+- **배포 URL**: https://m1-1-kr-stock-timeseries.streamlit.app
 - 로컬 실행 방법: `streamlit run dashboard.py`
 
 ### 8-2. 시계열 심화 옵션 (B) 간단 예측
