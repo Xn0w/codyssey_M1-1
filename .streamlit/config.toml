@@ -1,0 +1,7 @@
+[theme]
+# 기본 톤: 짙은 네이비 배경 + 시안(청록) 포인트 컬러 — 증권 시세창 느낌을 참고했다.
+primaryColor = "#22D3EE"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+textColor = "#E2E8F0"
+font = "sans serif"
